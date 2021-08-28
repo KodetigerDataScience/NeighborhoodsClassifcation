@@ -1,0 +1,8 @@
+A new and popular coffee-chain from Newyork wants to set up a few branches in London.
+It wants to explore all the neighbourhoods in London based on the types of venues in each neighbourhood
+and target those locations which are not already overcrowded with caffes and coffee shops , but still have decent amount of venues 
+in the neighbourhood, plus has good connectivity with train and bus(based on train stations and bus stops in the neighbourhood).
+
+So the full project involves finding the list of neighbourhoods of London, finding the location coordinates for each, finding upto 50 
+venues in each neighborhood in a radius of 500 metres and classifying/clustering the neighbourhoods based on most frequently
+occuring venues in each neighbourhood.  

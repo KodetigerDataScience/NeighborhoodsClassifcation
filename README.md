@@ -1,2 +1,2 @@
-# NeighborhoodsClassification
-London Neighborhood Classification using KMeans Clustering Algorithm
+# Neighbourhood_Classification
+Classification of London neighbourhoods based on nearby venues to each neighbourhood
