@@ -12,9 +12,9 @@ So the full project involves finding the list of neighbourhoods of London, findi
 venues in each neighborhood in a radius of 500 metres and classifying/clustering the neighbourhoods based on most frequently
 occuring venues in each neighbourhood.  
 
-####Solution
+#### Solution
 
-####Project Steps:
+#### Project Steps:
 
 -Get the list of Neighborhoods from web(wikipedia) .
 
